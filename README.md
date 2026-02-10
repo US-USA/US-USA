@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tiktokinfo.vercel.app" target="_blank">
-    <img
+    <img 
       src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif"
       width="140"
       alt="TikTok info"
